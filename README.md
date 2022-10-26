@@ -1,13 +1,13 @@
 <h2 align="left">
  <abc>
   <br>
-A Skilled CyberSecurity Engineer who has done Bachelor from Maulana Azad national Urdu university⚡⚡ </h3>
+A Skilled CyberSecurity Engineer who has done Bachelor from Manu University Hyderabad⚡⚡ </h3>
  
- - I’m currently working as a Data scientist at ThouCentric!
+ - I’m currently working as a Security Engineer at Precesion Informatic!
  
- - I’m looking to collaborate with other content creators
+ - I’m looking to collaborate with other Ethical Hacker to share Knowledge
  
- - Fun fact: I love to analyze data for trends and patterns and interpret data with a clear objective in mind and building scalable data pipelines. This is something that I enjoy a lot as well learning new content and sharing my knowledge with others. 
+ - Fun fact: I love to break Security for trends and patterns and interpret data with a clear objective in mind and building scalable data pipelines. This is something that I enjoy a lot as well learning new content and sharing my knowledge with others. 
  
  - How to reach me? Quickly email me at **owaiskhan9654@gmail.com** 
  
@@ -16,16 +16,16 @@ A Skilled CyberSecurity Engineer who has done Bachelor from Maulana Azad nationa
  </abc>
 </h2> 
 
-  <a href="mailto:owaiskhan9654@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:owaiskhan9654@gmail.com" />
+  <a href="mailto:srfzit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:srfzit@gmail.com" />
   </a>
   
-  <a href="https://github.com/Owaiskhan9654">
+  <a href="https://github.com/cybersyrufszuf">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Owaiskhan9654" alt="GitHub badge" />
   </a>
   
-  <a href="https://www.linkedin.com/in/owaiskhan9654/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owaiskhan9654/" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sarfaraz-ahmadm/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/in/sarfaraz-ahmadm/" alt="LinkedIn" />
   </a>
   
   <a href="https://www.hackerearth.com/@owaiskhan9654">
