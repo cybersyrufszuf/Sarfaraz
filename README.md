@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>
-A Skilled Data Scientist who has done masters from JNU⚡⚡ </h3>
+A Skilled CyberSecurity Engineer who has done Bachelor from Maulana Azad national Urdu university⚡⚡ </h3>
  
  - I’m currently working as a Data scientist at ThouCentric!
  
