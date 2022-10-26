@@ -9,7 +9,7 @@ A Skilled CyberSecurity Engineer who has done Bachelor from Manu University Hyde
  
  - Fun fact: I love to break Security for trends and patterns and interpret data with a clear objective in mind and building scalable data pipelines. This is something that I enjoy a lot as well learning new content and sharing my knowledge with others. 
  
- - How to reach me? Quickly email me at **owaiskhan9654@gmail.com** 
+ - How to reach me? Quickly email me at **srfzit@gmail.com** 
  
  
  
