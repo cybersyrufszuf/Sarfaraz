@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>
-A Skilled CyberSecurity Engineer who has done Bachelor from Manu University Hyderabad⚡⚡ </h3>
+A Skilled CyberSecurity Engineer who has done Bachelor from Maulana Azad National Urdu University Hyderabad⚡⚡ </h3>
  
  - I’m currently working as a Security Engineer at Precesion Informatic!
  
